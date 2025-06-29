@@ -1,10 +1,10 @@
 # Numerical analysis algorithms
 ---
-1. Giới thiệu
+1. Introduction
 
 - Famous algorithms of numerical analysis : approximately solving single-variable equations, exactly solving of linear equations systems, approximately solving of linear equations systems, finding inverse matrices, finding eigenvalues ​​and eigenvectors of matrices, Singular Value Decomposition (SVD) of matrices.
 
-2. Các thành phần
+2. Components
    
 - The `matrix.h` library helps work effectively with matrices.
 - The `complex.h` library helps work with complex numbers.
